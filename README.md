@@ -1,2 +1,2 @@
-# Heading
+#<center> Heading</center>
 Sample Head
